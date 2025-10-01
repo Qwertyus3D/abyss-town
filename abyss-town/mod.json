@@ -3,12 +3,16 @@
 	"description" : "Abyss town",
 	"author" : "Axolotl (graphics), mitlandy, Tooandorisu, Warmonger, misiokles, Troggly, Dydzio, Anonymous, StasPV",
 	"contact" : "https://forum.vcmi.eu/t/abyss-town-revived/1010",
-	"version" : "1.19",
+	"version" : "1.20",
 	"modType" : "Town",
 	"factions" : [
 		"config/abyss/town"
 	],
 	"changelog" : {
+		"1.20" : [
+			"Converted BMPs to PNGs",
+			"Updated Czech translation"
+		],
 		"1.19" : [
 			"Added flagport frames (Kingdom Overwiev window)"
 		],
@@ -130,7 +134,7 @@
 	},
 	"czech" : {
 		"name" : "Útes",
-		"description" : "Nové město Útes, vytvořené na motivy podvodního světa.",
+		"description" : "Útes je město skryté v hlubinách oceánu, kde vládnou pradávné bytosti a temní šamani. Společně s podmořskými tvory tvoří společenství, které se odtrhlo od světa na povrchu a uctívá moc oceánu.<br/><br/>Jeho armádu tvoří <b>ornie</b>, <b>krabi</b>, <b>mořští koníci</b>, <b>aurelie</b> a <b>chobotnice</b>, posílené hadími <b>Yuan-Ti</b>, hrozivými <b>krakeny</b> a dalšími děsivými tvory z hlubin.<br/><br/>Útes se specializuje na <b>vodní kouzla</b>, odolnost proti magii a schopnosti spojené s oceánem. Díky svým mocným jednotkám i magii dokáže ovládnout jak pevninu, tak moře.<br/><br/>Je to frakce pro hráče, kteří hledají sílu temných hlubin a podmořské tvory.",
 		"translations" : [
 			"translation/abyss/czech.json"
 		]
