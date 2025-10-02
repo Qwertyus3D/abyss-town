@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Yuan-TiWarrior.def",
 			"map" : "abyss/map/creatures/AVWYuan-TiWarrior.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Yuan-TiWarrior.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Yuan-TiWarrior.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Yuan-TiWarrior",
+			"iconLarge" : "abyss/iconsBig/creatures/Yuan-TiWarrior",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

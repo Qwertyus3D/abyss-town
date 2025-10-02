@@ -27,8 +27,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Glowing.def",
 			"map" : "abyss/map/creatures/Glowing.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Glowing.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Glowing.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Glowing",
+			"iconLarge" : "abyss/iconsBig/creatures/Glowing",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

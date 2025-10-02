@@ -3,8 +3,8 @@
 		"alignment" : "neutral",
 		"boat" : "boatFortress",
 		"creatureBackground" : {
-			"120px" : "abyss/creature-bg-120px.bmp",
-			"130px" : "abyss/creature-bg-130px.bmp"
+			"120px" : "abyss/creature-bg-120px",
+			"130px" : "abyss/creature-bg-130px"
 		},
 		"name" : "Abyss",
 		"nativeTerrain" : "swamp",
@@ -774,7 +774,7 @@
 					"abyssOceanWorm"
 				]
 			],
-			"guildBackground" : "TPMAGE.bmp",
+			"guildBackground" : "TPMAGE",
 			"guildSpells" : {
 				"bless" : 5,
 				"bloodlust" : 0,
@@ -844,8 +844,8 @@
 				"sacrifice" : 0,
 				"waterElemental" : 15
 			},
-			"guildWindow" : "abyss/town-screen/mage-guild.bmp",
-			"hallBackground" : "abyss/town-screen/hallBackground.bmp",
+			"guildWindow" : "abyss/town-screen/mage-guild",
+			"hallBackground" : "abyss/town-screen/hallBackground",
 			"horde" : [
 				2,
 				1
@@ -854,22 +854,22 @@
 			"icons" : {
 				"village" : {
 					"normal" : {
-						"small" : "abyss/icons/hall-small.bmp",
-						"large" : "abyss/icons/hall-big.bmp"
+						"small" : "abyss/icons/hall-small",
+						"large" : "abyss/icons/hall-big"
 					},
 					"built" : {
-						"small" : "abyss/icons/hall-builded-small.bmp",
-						"large" : "abyss/icons/hall-builded-big.bmp"
+						"small" : "abyss/icons/hall-builded-small",
+						"large" : "abyss/icons/hall-builded-big"
 					}
 				},
 				"fort" : {
 					"normal" : {
-						"small" : "abyss/icons/fort-small.bmp",
-						"large" : "abyss/icons/fort-big.bmp"
+						"small" : "abyss/icons/fort-small",
+						"large" : "abyss/icons/fort-big"
 					},
 					"built" : {
-						"small" : "abyss/icons/fort-builded-small.bmp",
-						"large" : "abyss/icons/fort-builded-big.bmp"
+						"small" : "abyss/icons/fort-builded-small",
+						"large" : "abyss/icons/fort-builded-big"
 					}
 				}
 			},
@@ -1182,32 +1182,32 @@
 				},
 				"horde1" : {
 					"animation" : "abyss/town-screen/buildings/TBDNHRD1.def",
-					"area" : "abyss/town-screen/buildings-area/TZDTR1HA.bmp",
-					"border" : "abyss/town-screen/buildings-border/TODTR1HA.bmp",
+					"area" : "abyss/town-screen/buildings-area/TZDTR1HA",
+					"border" : "abyss/town-screen/buildings-border/TODTR1HA",
 					"x" : 138,
 					"y" : 113,
 					"z" : 2
 				},
 				"horde1Upgr" : {
 					"animation" : "abyss/town-screen/buildings/TBDNHRD1.def",
-					"area" : "abyss/town-screen/buildings-area/TZDTR1HA.bmp",
-					"border" : "abyss/town-screen/buildings-border/TODTR1HA.bmp",
+					"area" : "abyss/town-screen/buildings-area/TZDTR1HA",
+					"border" : "abyss/town-screen/buildings-border/TODTR1HA",
 					"x" : 138,
 					"y" : 113,
 					"z" : 2
 				},
 				"horde2" : {
 					"animation" : "abyss/town-screen/buildings/TODTR2HA.def",
-					"area" : "abyss/town-screen/buildings-area/TZDTR2HA.bmp",
-					"border" : "abyss/town-screen/buildings-border/TODTR2HA.bmp",
+					"area" : "abyss/town-screen/buildings-area/TZDTR2HA",
+					"border" : "abyss/town-screen/buildings-border/TODTR2HA",
 					"x" : 192,
 					"y" : 180,
 					"z" : 0
 				},
 				"horde2Upgr" : {
 					"animation" : "abyss/town-screen/buildings/TODTR2HA.def",
-					"area" : "abyss/town-screen/buildings-area/TZDTR2HA.bmp",
-					"border" : "abyss/town-screen/buildings-border/TODTR2HA.bmp",
+					"area" : "abyss/town-screen/buildings-area/TZDTR2HA",
+					"border" : "abyss/town-screen/buildings-border/TODTR2HA",
 					"x" : 192,
 					"y" : 180,
 					"z" : 0
@@ -1358,7 +1358,7 @@
 				}
 			},
 			"tavernVideo" : "TAVERN.BIK",
-			"townBackground" : "abyss/town-screen/background.bmp",
+			"townBackground" : "abyss/town-screen/background",
 			"hallSlots" : [
 				[
 					[

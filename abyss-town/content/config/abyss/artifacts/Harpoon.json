@@ -13,7 +13,7 @@
 			"event" : "The universal war machine mortira allows you to attack the walls of fortified enemy units."
 		},
 		"graphics" : {
-			"image" : "abyss/iconsSmall/creatures/artifacts/harpoon.bmp",
+			"image" : "abyss/iconsSmall/creatures/artifacts/harpoon",
 			"map" : "abyss/map/artifacts/avcnbksm.def",
 			"scenarioBonus" : "abyss/icons/bonuses/blank.png"
 		}

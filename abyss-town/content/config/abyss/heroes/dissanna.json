@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Dissanna/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Dissanna/spec-large.bmp",
-			"large" : "abyss/heroes/Dissanna/portrait-large.bmp",
-			"small" : "abyss/heroes/Dissanna/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Dissanna/spec-small",
+			"specialtyLarge" : "abyss/heroes/Dissanna/spec-large",
+			"large" : "abyss/heroes/Dissanna/portrait-large",
+			"small" : "abyss/heroes/Dissanna/portrait-small"
 		},
 		"spellbook" : [
 			"cure"

@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/DeepOne.def",
 			"map" : "abyss/map/creatures/AVWDeepOne.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/DeepOne.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/DeepOne.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/DeepOne",
+			"iconLarge" : "abyss/iconsBig/creatures/DeepOne",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.3,

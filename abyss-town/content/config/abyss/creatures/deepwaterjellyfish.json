@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/AbyssalJellyfish.def",
 			"map" : "abyss/map/creatures/AVWAbyssalJellyfish.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/AbyssalJellyfish.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/AbyssalJellyfish.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/AbyssalJellyfish",
+			"iconLarge" : "abyss/iconsBig/creatures/AbyssalJellyfish",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1,

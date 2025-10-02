@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Perha/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Perha/spec-large.bmp",
-			"large" : "abyss/heroes/Perha/portrait-large.bmp",
-			"small" : "abyss/heroes/Perha/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Perha/spec-small",
+			"specialtyLarge" : "abyss/heroes/Perha/spec-large",
+			"large" : "abyss/heroes/Perha/portrait-large",
+			"small" : "abyss/heroes/Perha/portrait-small"
 		},
 		"spellbook" : [
 			"bless"

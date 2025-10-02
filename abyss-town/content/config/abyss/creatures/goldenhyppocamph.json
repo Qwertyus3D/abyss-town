@@ -30,8 +30,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/GiantGoldSeahorse.def",
 			"map" : "abyss/map/creatures/AVWGiantGoldSeahorse.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/GiantGoldSeahorseS.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/GiantGoldSeahorseB.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/GiantGoldSeahorseS",
+			"iconLarge" : "abyss/iconsBig/creatures/GiantGoldSeahorseB",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

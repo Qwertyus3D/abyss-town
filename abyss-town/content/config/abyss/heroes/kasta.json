@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Kasta/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Kasta/spec-large.bmp",
-			"large" : "abyss/heroes/Kasta/portrait-large.bmp",
-			"small" : "abyss/heroes/Kasta/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Kasta/spec-small",
+			"specialtyLarge" : "abyss/heroes/Kasta/spec-large",
+			"large" : "abyss/heroes/Kasta/portrait-large",
+			"small" : "abyss/heroes/Kasta/portrait-small"
 		},
 		"spellbook" : [
 			"magicArrow"

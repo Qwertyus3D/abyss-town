@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Kraken Teamster/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Kraken Teamster/spec-large.bmp",
-			"large" : "abyss/heroes/Kraken Teamster/portrait-large.bmp",
-			"small" : "abyss/heroes/Kraken Teamster/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Kraken Teamster/spec-small",
+			"specialtyLarge" : "abyss/heroes/Kraken Teamster/spec-large",
+			"large" : "abyss/heroes/Kraken Teamster/portrait-large",
+			"small" : "abyss/heroes/Kraken Teamster/portrait-small"
 		},
 		"army" : [
 			{

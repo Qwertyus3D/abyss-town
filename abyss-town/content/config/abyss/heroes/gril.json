@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Gril/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Gril/spec-large.bmp",
-			"large" : "abyss/heroes/Gril/portrait-large.bmp",
-			"small" : "abyss/heroes/Gril/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Gril/spec-small",
+			"specialtyLarge" : "abyss/heroes/Gril/spec-large",
+			"large" : "abyss/heroes/Gril/portrait-large",
+			"small" : "abyss/heroes/Gril/portrait-small"
 		},
 		"spellbook" : [
 			"chainLightning"

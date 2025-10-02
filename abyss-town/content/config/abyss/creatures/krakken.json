@@ -29,8 +29,8 @@
 				"walk" : 1
 			},
 			"map" : "abyss/map/creatures/AVWKrakken.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Krakken.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Krakken.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Krakken",
+			"iconLarge" : "abyss/iconsBig/creatures/Krakken",
 			"timeBetweenFidgets" : 1
 		},
 		"growth" : 1,

@@ -21,8 +21,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/commander/abyssHyppoCommander.def",
 			"map" : "abyss/map/creatures/AVWHyppoCommander.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/HyppoCommander.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/HyppoCommander.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/HyppoCommander",
+			"iconLarge" : "abyss/iconsBig/creatures/HyppoCommander",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

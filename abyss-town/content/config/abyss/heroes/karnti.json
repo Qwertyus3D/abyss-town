@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Karn-Ti/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Karn-Ti/spec-large.bmp",
-			"large" : "abyss/heroes/Karn-Ti/portrait-large.bmp",
-			"small" : "abyss/heroes/Karn-Ti/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Karn-Ti/spec-small",
+			"specialtyLarge" : "abyss/heroes/Karn-Ti/spec-large",
+			"large" : "abyss/heroes/Karn-Ti/portrait-large",
+			"small" : "abyss/heroes/Karn-Ti/portrait-small"
 		},
 		"spellbook" : [
 			"magicArrow"

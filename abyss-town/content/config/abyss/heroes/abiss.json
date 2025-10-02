@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Abiss/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Abiss/spec-large.bmp",
-			"large" : "abyss/heroes/Abiss/portrait-large.bmp",
-			"small" : "abyss/heroes/Abiss/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Abiss/spec-small",
+			"specialtyLarge" : "abyss/heroes/Abiss/spec-large",
+			"large" : "abyss/heroes/Abiss/portrait-large",
+			"small" : "abyss/heroes/Abiss/portrait-small"
 		},
 		"army" : [
 			{

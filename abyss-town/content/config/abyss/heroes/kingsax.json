@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Kingsax/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Kingsax/spec-large.bmp",
-			"large" : "abyss/heroes/Kingsax/portrait-large.bmp",
-			"small" : "abyss/heroes/Kingsax/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Kingsax/spec-small",
+			"specialtyLarge" : "abyss/heroes/Kingsax/spec-large",
+			"large" : "abyss/heroes/Kingsax/portrait-large",
+			"small" : "abyss/heroes/Kingsax/portrait-small"
 		},
 		"spellbook" : [
 			"magicArrow"

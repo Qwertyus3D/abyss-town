@@ -29,8 +29,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/DarkOne.def",
 			"map" : "abyss/map/creatures/AVWDarkOne.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/DarkOne.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/DarkOne.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/DarkOne",
+			"iconLarge" : "abyss/iconsBig/creatures/DarkOne",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.3,

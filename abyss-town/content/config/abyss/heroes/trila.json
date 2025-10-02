@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Trila/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Trila/spec-large.bmp",
-			"large" : "abyss/heroes/Trila/portrait-large.bmp",
-			"small" : "abyss/heroes/Trila/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Trila/spec-small",
+			"specialtyLarge" : "abyss/heroes/Trila/spec-large",
+			"large" : "abyss/heroes/Trila/portrait-large",
+			"small" : "abyss/heroes/Trila/portrait-small"
 		},
 		"army" : [
 			{

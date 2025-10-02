@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Wel/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Wel/spec-large.bmp",
-			"large" : "abyss/heroes/Wel/portrait-large.bmp",
-			"small" : "abyss/heroes/Wel/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Wel/spec-small",
+			"specialtyLarge" : "abyss/heroes/Wel/spec-large",
+			"large" : "abyss/heroes/Wel/portrait-large",
+			"small" : "abyss/heroes/Wel/portrait-small"
 		},
 		"spellbook" : [
 			"resurrection"

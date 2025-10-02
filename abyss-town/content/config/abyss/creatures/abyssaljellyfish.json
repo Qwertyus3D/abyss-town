@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/DeepwaterJellyfish.def",
 			"map" : "abyss/map/creatures/AVWDeepwaterJellyfish.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/DeepwaterJellyfish.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/DeepwaterJellyfish.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/DeepwaterJellyfish",
+			"iconLarge" : "abyss/iconsBig/creatures/DeepwaterJellyfish",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1,

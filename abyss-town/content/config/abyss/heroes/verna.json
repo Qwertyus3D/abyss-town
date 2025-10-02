@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Verna/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Verna/spec-large.bmp",
-			"large" : "abyss/heroes/Verna/portrait-large.bmp",
-			"small" : "abyss/heroes/Verna/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Verna/spec-small",
+			"specialtyLarge" : "abyss/heroes/Verna/spec-large",
+			"large" : "abyss/heroes/Verna/portrait-large",
+			"small" : "abyss/heroes/Verna/portrait-small"
 		},
 		"spellbook" : [
 			"magicArrow"

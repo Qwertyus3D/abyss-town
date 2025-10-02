@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Arkana/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Arkana/spec-large.bmp",
-			"large" : "abyss/heroes/Arkana/portrait-large.bmp",
-			"small" : "abyss/heroes/Arkana/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Arkana/spec-small",
+			"specialtyLarge" : "abyss/heroes/Arkana/spec-large",
+			"large" : "abyss/heroes/Arkana/portrait-large",
+			"small" : "abyss/heroes/Arkana/portrait-small"
 		},
 		"army" : [
 			{

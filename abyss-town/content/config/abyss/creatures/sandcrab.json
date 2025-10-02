@@ -33,8 +33,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/sandcrab.def",
 			"map" : "abyss/map/creatures/AVWSandCrab.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/SandCrab.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/SandCrab.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/SandCrab",
+			"iconLarge" : "abyss/iconsBig/creatures/SandCrab",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

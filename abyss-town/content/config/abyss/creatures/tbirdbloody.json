@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Bloody.def",
 			"map" : "abyss/map/creatures/Bloody.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Bloody.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Bloody.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Bloody",
+			"iconLarge" : "abyss/iconsBig/creatures/Bloody",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

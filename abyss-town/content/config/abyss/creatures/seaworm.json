@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/SeaWorm.def",
 			"map" : "abyss/map/creatures/AVWSeaWorm.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/SeaWorm.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/SeaWorm.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/SeaWorm",
+			"iconLarge" : "abyss/iconsBig/creatures/SeaWorm",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

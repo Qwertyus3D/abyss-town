@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/AbyssalGiantOctopus.def",
 			"map" : "abyss/map/creatures/AVWAbyssalGiantOctopus.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/AbyssalGiantOctopus.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/AbyssalGiantOctopus.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/AbyssalGiantOctopus",
+			"iconLarge" : "abyss/iconsBig/creatures/AbyssalGiantOctopus",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/OceanWorm.def",
 			"map" : "abyss/map/creatures/AVWOceanWorm.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/OceanWorm.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/OceanWorm.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/OceanWorm",
+			"iconLarge" : "abyss/iconsBig/creatures/OceanWorm",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Asler/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Asler/spec-large.bmp",
-			"large" : "abyss/heroes/Asler/portrait-large.bmp",
-			"small" : "abyss/heroes/Asler/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Asler/spec-small",
+			"specialtyLarge" : "abyss/heroes/Asler/spec-large",
+			"large" : "abyss/heroes/Asler/portrait-large",
+			"small" : "abyss/heroes/Asler/portrait-small"
 		},
 		"army" : [
 			{

@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Pears/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Pears/spec-large.bmp",
-			"large" : "abyss/heroes/Pears/portrait-large.bmp",
-			"small" : "abyss/heroes/Pears/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Pears/spec-small",
+			"specialtyLarge" : "abyss/heroes/Pears/spec-large",
+			"large" : "abyss/heroes/Pears/portrait-large",
+			"small" : "abyss/heroes/Pears/portrait-small"
 		},
 		"army" : [
 			{

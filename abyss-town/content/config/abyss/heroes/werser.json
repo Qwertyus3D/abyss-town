@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Werser/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Werser/spec-large.bmp",
-			"large" : "abyss/heroes/Werser/portrait-large.bmp",
-			"small" : "abyss/heroes/Werser/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Werser/spec-small",
+			"specialtyLarge" : "abyss/heroes/Werser/spec-large",
+			"large" : "abyss/heroes/Werser/portrait-large",
+			"small" : "abyss/heroes/Werser/portrait-small"
 		},
 		"army" : [
 			{

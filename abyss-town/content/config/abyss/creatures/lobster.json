@@ -32,8 +32,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/lobster.def",
 			"map" : "abyss/map/creatures/AVWlobster.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/lobster.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/lobster.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/lobster",
+			"iconLarge" : "abyss/iconsBig/creatures/lobster",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

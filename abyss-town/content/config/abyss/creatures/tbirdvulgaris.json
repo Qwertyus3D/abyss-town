@@ -30,8 +30,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/tbirdvulgaris.def",
 			"map" : "abyss/map/creatures/AVWTentacleBirdVulgaris.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/TentacleBirdVulgaris.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/TentacleBirdVulgaris.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/TentacleBirdVulgaris",
+			"iconLarge" : "abyss/iconsBig/creatures/TentacleBirdVulgaris",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

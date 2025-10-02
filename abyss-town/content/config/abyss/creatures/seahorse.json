@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Seahorse.def",
 			"map" : "abyss/map/creatures/AVWSeahorse.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Seahorse.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Seahorse.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Seahorse",
+			"iconLarge" : "abyss/iconsBig/creatures/Seahorse",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

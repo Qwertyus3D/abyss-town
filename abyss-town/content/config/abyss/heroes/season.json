@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Season/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Season/spec-large.bmp",
-			"large" : "abyss/heroes/Season/portrait-large.bmp",
-			"small" : "abyss/heroes/Season/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Season/spec-small",
+			"specialtyLarge" : "abyss/heroes/Season/spec-large",
+			"large" : "abyss/heroes/Season/portrait-large",
+			"small" : "abyss/heroes/Season/portrait-small"
 		},
 		"army" : [
 			{

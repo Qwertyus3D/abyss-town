@@ -12,10 +12,10 @@
 			}
 		},
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Raytlii/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Raytlii/spec-large.bmp",
-			"large" : "abyss/heroes/Raytlii/portrait-large.bmp",
-			"small" : "abyss/heroes/Raytlii/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Raytlii/spec-small",
+			"specialtyLarge" : "abyss/heroes/Raytlii/spec-large",
+			"large" : "abyss/heroes/Raytlii/portrait-large",
+			"small" : "abyss/heroes/Raytlii/portrait-small"
 		},
 		"army" : [
 			{

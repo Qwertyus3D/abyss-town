@@ -13,10 +13,10 @@
 		},
 
 		"images" : {
-			"specialtySmall" : "abyss/heroes/Sirranna/spec-small.bmp",
-			"specialtyLarge" : "abyss/heroes/Sirranna/spec-large.bmp",
-			"large" : "abyss/heroes/Sirranna/portrait-large.bmp",
-			"small" : "abyss/heroes/Sirranna/portrait-small.bmp"
+			"specialtySmall" : "abyss/heroes/Sirranna/spec-small",
+			"specialtyLarge" : "abyss/heroes/Sirranna/spec-large",
+			"large" : "abyss/heroes/Sirranna/portrait-large",
+			"small" : "abyss/heroes/Sirranna/portrait-small"
 		},
 		"spellbook" : [
 			"magicArrow"

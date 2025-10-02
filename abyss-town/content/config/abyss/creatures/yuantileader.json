@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Yuan-TiLeader.def",
 			"map" : "abyss/map/creatures/AVWYuan-TiLeader.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Yuan-TiLeader.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Yuan-TiLeader.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Yuan-TiLeader",
+			"iconLarge" : "abyss/iconsBig/creatures/Yuan-TiLeader",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

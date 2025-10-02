@@ -29,8 +29,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/lobsterup.def",
 			"map" : "abyss/map/creatures/AVWlobsterup.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/lobsterup.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/lobsterup.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/lobsterup",
+			"iconLarge" : "abyss/iconsBig/creatures/lobsterup",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

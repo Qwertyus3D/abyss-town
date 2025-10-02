@@ -30,8 +30,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/tbirdelectric.def",
 			"map" : "abyss/map/creatures/AVWtbirdelectric.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/tbirdelectric.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/tbirdelectric.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/tbirdelectric",
+			"iconLarge" : "abyss/iconsBig/creatures/tbirdelectric",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

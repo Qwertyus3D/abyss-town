@@ -30,8 +30,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/abyssalcrab.def",
 			"map" : "abyss/map/creatures/AVWAbyssalCrab.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/abyssalCrab.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/abyssalCrab.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/abyssalCrab",
+			"iconLarge" : "abyss/iconsBig/creatures/abyssalCrab",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,

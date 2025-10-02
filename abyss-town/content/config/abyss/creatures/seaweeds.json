@@ -115,8 +115,8 @@
 				"idle" : 20,
 				"walk" : 1.5
 			},
-			"iconSmall" : "abyss/iconsSmall/creatures/seaweeds.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/seaweeds.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/seaweeds",
+			"iconLarge" : "abyss/iconsBig/creatures/seaweeds",
 			"map" : "abyss/map/creatures/Advseaweeds",
 			"timeBetweenFidgets" : 1
 		},

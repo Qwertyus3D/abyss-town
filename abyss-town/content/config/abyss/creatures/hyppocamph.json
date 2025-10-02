@@ -31,8 +31,8 @@
 		"graphics" : {
 			"animation" : "abyss/battle/creatures/Hyppocamph.def",
 			"map" : "abyss/map/creatures/AVWHyppocamph.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Hyppocamph.bmp",
-			"iconLarge" : "abyss/iconsBig/creatures/Hyppocamph.bmp",
+			"iconSmall" : "abyss/iconsSmall/creatures/Hyppocamph",
+			"iconLarge" : "abyss/iconsBig/creatures/Hyppocamph",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1.28,
