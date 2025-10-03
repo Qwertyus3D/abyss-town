@@ -3,12 +3,15 @@
 	"description" : "Abyss town",
 	"author" : "Axolotl (graphics), mitlandy, Tooandorisu, Warmonger, misiokles, Troggly, Dydzio, Anonymous, StasPV",
 	"contact" : "https://forum.vcmi.eu/t/abyss-town-revived/1010",
-	"version" : "1.21",
+	"version" : "1.22",
 	"modType" : "Town",
 	"factions" : [
 		"config/abyss/town"
 	],
 	"changelog" : {
+		"1.22" : [
+			"Fixed townscreen palette"
+		],
 		"1.21" : [
 			"Fixed configs after BMPs to PNGs conversion"
 		],
