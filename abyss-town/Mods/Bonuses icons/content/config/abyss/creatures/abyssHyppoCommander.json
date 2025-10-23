@@ -1,0 +1,9 @@
+{
+	"abyss-town:abyssHyppoCommander" : {
+		"abilities" : {
+			"canCast" : {
+				"icon" : "bonuses/protwater2.png"
+			}
+		}
+	}
+}

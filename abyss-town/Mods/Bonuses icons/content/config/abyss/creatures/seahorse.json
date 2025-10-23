@@ -1,0 +1,13 @@
+{
+	"abyss-town:abyssSeahorse" : {
+		"abilities" : {
+			"flying" : {
+				"icon" : "bonuses/e_fly5.png"
+			},
+			"lucky" : {
+				"description" : "{Positive Luck}\nUnit luck cannot be decreased below +1",
+				"icon" : "abyss/icons/bonuses/positiveluck.png"
+			}
+		}
+	}
+}

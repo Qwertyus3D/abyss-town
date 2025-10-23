@@ -1,0 +1,15 @@
+{
+	"abyss-town:tbirdbloody" : {
+		"abilities" : {
+			"spellAfterAttack" : {
+				"icon" : "bonuses/thunderbird.png"
+			},
+			"flying" : {
+				"icon" : "bonuses/e_fly5.png"
+			},
+			"drainsLife" : {
+				"icon" : "bonuses/DrainLife_BloodyOrnia.png"
+			}
+		}
+	}
+}

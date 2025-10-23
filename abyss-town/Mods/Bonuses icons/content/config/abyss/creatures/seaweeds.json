@@ -1,0 +1,9 @@
+{
+	"abyss-town:seaweeds" : {
+		"abilities" : {
+			"binds" : {
+				"icon" : "bonuses/sticky.png"
+			}
+		}
+	}
+}

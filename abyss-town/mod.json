@@ -3,12 +3,15 @@
 	"description" : "Abyss town",
 	"author" : "Axolotl (graphics), mitlandy, Tooandorisu, Warmonger, misiokles, Troggly, Dydzio, Anonymous, StasPV",
 	"contact" : "https://forum.vcmi.eu/t/abyss-town-revived/1010",
-	"version" : "1.22",
+	"version" : "1.23",
 	"modType" : "Town",
 	"factions" : [
 		"config/abyss/town"
 	],
 	"changelog" : {
+		"1.23" : [
+			"Added additional creatures abilities icons by Kurek"
+		],
 		"1.22" : [
 			"Fixed townscreen palette"
 		],

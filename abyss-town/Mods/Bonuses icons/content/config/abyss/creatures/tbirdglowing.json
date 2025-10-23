@@ -1,0 +1,18 @@
+{
+	"abyss-town:tbirdglowing" : {
+		"abilities" : {
+			"spellAfterAttack" : {
+				"icon" : "bonuses/thunderbird.png"
+			},
+			"flying" : {
+				"icon" : "bonuses/e_fly5.png"
+			},
+			"drainsMana" : {
+				"icon" : "bonuses/ManaDrainGlowing.png"
+			},
+			"drainsLife" : {
+				"icon" : "bonuses/DrainLifeGlowingOrnia.png"
+			}
+		}
+	}
+}

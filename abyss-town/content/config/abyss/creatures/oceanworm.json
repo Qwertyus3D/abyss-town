@@ -59,8 +59,7 @@
 			"waterImmunity" : {
 				"type" : "NEGATIVE_EFFECTS_IMMUNITY",
 				"subtype" : "water",
-				"description" : "{Negative water spells immunity}\nUnit is immune to all negative water spells",
-				"icon" : "abyss/icons/bonuses/e_spwater.png"
+				"description" : "{Negative water spells immunity}\nUnit is immune to all negative water spells"
 			},
 			"binds" : {
 				"type" : "SPELL_AFTER_ATTACK",

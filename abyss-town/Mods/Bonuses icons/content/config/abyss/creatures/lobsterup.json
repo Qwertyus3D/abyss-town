@@ -1,0 +1,9 @@
+{
+	"abyss-town:abyssLobsterup" : {
+		"abilities" : {
+			"enemyDefenceReduction" : {
+				"icon" : "bonuses/e_rdef_lobsterupg.png"
+			}
+		}
+	}
+}

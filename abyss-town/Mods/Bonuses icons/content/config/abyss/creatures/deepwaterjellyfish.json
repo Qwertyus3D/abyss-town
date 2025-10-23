@@ -1,0 +1,9 @@
+{
+	"abyss-town:abyssAbyssalJellyfish" : {
+		"abilities" : {
+			"castlightningBolt" : {
+				"icon" : "bonuses/thunderbird.png"
+			}
+		}
+	}
+}

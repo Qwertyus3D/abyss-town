@@ -1,0 +1,10 @@
+{
+	"abyss-town:abyssSeaWorm" : {
+		"abilities" : {
+			"flying" : {
+				"icon" : "bonuses/burrowing.png",
+				"description" : "{Burrowing}\nThis unit can burrow while moving and will ignore battlefield obstacles"
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"abyss-town:deepOne" : {
+		"abilities" : {
+			"spellAfterAttack" : {
+				"icon" : "bonuses/poison.png"
+			}
+		}
+	}
+}

@@ -54,9 +54,7 @@
 			"lucky" : {
 				"type" : "LUCK",
 				"val" : 1,
-				"valueType" : "INDEPENDENT_MAX",
-				"description" : "{Positive Luck}\nUnit luck cannot be decreased below +1",
-				"icon" : "abyss/icons/bonuses/positiveluck.png"
+				"valueType" : "INDEPENDENT_MAX"
 			},
 			"spellAfterAttack" : {
 				"type" : "SPELL_AFTER_ATTACK",
@@ -72,9 +70,7 @@
 				"type" : "MOVEMENT",
 				"val" : 300,
 				"valueType" : "ADDITIVE_VALUE",
-				"propagator" : "HERO",
-				"description" : "{Navigator}\nInreases hero sea movement points by 300",
-				"icon" : "abyss/icons/bonuses/e_whirl.png"
+				"propagator" : "HERO"
 			}
 		},
 		"stackExperience" : [

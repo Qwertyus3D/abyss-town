@@ -1,0 +1,30 @@
+{
+	"name" : "Additional bonuses icons",
+	"description" : "Additional icons for creatures abilities.",
+	"version" : "1.0.0",
+	"author" : "Kurek",
+	"contact" : "",
+	"modType" : "Graphical",
+	"creatures" : [
+		"config/abyss/creatures/tbirdvulgaris.json",
+		"config/abyss/creatures/tbirdelectric.json",
+		"config/abyss/creatures/seahorse.json",
+		"config/abyss/creatures/hyppocamph.json",
+		"config/abyss/creatures/goldenhyppocamph.json",
+		"config/abyss/creatures/deepwaterjellyfish.json",
+		"config/abyss/creatures/yuantiwarrior.json",
+		"config/abyss/creatures/yuantileader.json",
+		"config/abyss/creatures/seaworm.json",
+		"config/abyss/creatures/oceanworm.json",
+		"config/abyss/creatures/lobsterup.json",
+		"config/abyss/creatures/deepone.json",
+		"config/abyss/creatures/darkone.json",
+		"config/abyss/creatures/abyssHyppoCommander.json",
+		"config/abyss/creatures/tbirdbloody.json",
+		"config/abyss/creatures/tbirdglowing.json",
+		"config/abyss/creatures/krakken.json",
+		"config/abyss/creatures/seaweeds.json",
+		"config/abyss/creatures/seaweedsup.json",
+		"config/abyss/creatures/Harpoon.json"
+	]	
+}

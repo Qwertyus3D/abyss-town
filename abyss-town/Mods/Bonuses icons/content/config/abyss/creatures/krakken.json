@@ -1,0 +1,9 @@
+{
+	"abyss-town:abKrakken" : {
+		"abilities" : {
+			"canFly" : {
+				"icon" : "bonuses/e_fly5.png"
+			}
+		}
+	}
+}

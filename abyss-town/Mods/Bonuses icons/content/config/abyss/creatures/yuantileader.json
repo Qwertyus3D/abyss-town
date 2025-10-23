@@ -1,58 +1,8 @@
 {
-	"abyssYuanTiLeader" : {
-		"name" : {
-			"plural" : "Yuan-Ti  Warriors",
-			"singular" : "Yuan-Ti Warrior"
-		},
-		"doubleWide" : true,
-		"faction" : "abyss",
-		"advMapAmount" : {
-			"min" : 5,
-			"max" : 10
-		},
-		"level" : 6,
-		"attack" : 14,
-		"defense" : 19,
-		"damage" : {
-			"min" : 17,
-			"max" : 22
-		},
-		"growth" : 2,
-		"hitPoints" : 90,
-		"speed" : 8,
-		"fightValue" : 1396,
-		"aiValue" : 1618,
-		"cost" : {
-			"gold" : 1100
-		},
-		"graphics" : {
-			"animation" : "abyss/battle/creatures/Yuan-TiLeader.def",
-			"map" : "abyss/map/creatures/AVWYuan-TiLeader.def",
-			"iconSmall" : "abyss/iconsSmall/creatures/Yuan-TiLeader",
-			"iconLarge" : "abyss/iconsBig/creatures/Yuan-TiLeader",
-			"timeBetweenFidgets" : 1,
-			"animationTime" : {
-				"walk" : 1.28,
-				"attack" : 1,
-				"idle" : 10
-			}
-		},
-		"sound" : {
-			"attack" : "abyss/merrattk.wav",
-			"defend" : "abyss/merrdfnd.wav",
-			"killed" : "abyss/merrkill.wav",
-			"move" : "abyss/merrmove.wav",
-			"wince" : "abyss/merrwnce.wav"
-		},
+	"abyss-town:abyssYuanTiLeader" : {
 		"abilities" : {
-			"waterImmunity" : {
-				"type" : "NEGATIVE_EFFECTS_IMMUNITY",
-				"subtype" : "water",
-				"description" : "{Negative water spells immunity}\nUnit is immune to all negative water spells"
-			},
 			"enemyDefenceReduction" : {
-				"type" : "ENEMY_DEFENCE_REDUCTION",
-				"val" : 20
+				"icon" : "bonuses/e_rdef_yuantileader.png"
 			}
 		},
 		"stackExperience" : [
@@ -165,7 +115,8 @@
 			},
 			{
 				"bonus" : {
-					"type" : "ADDITIONAL_RETALIATION"
+					"type" : "ADDITIONAL_RETALIATION",
+					"icon" : "bonuses/e_retail_yuantileader.png"
 				},
 				"values" : [
 					0,
