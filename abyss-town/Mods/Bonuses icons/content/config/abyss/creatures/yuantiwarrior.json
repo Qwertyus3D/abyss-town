@@ -151,7 +151,7 @@
 			{
 				"bonus" : {
 					"type" : "GENERAL_DAMAGE_REDUCTION",
-					"subtype" : "damageTypeAll",
+					"subtype" : "damageTypeAll"
 				},
 				"values" : [
 					0,

@@ -2,7 +2,7 @@
 	"abyss-town:darkOne" : {
 		"abilities" : {
 			"spellAfterAttack" : {
-				"icon" : "bonuses/poison.png"				
+				"icon" : "bonuses/poison.png"
 			}
 		}
 	}
