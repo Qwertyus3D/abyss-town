@@ -442,7 +442,13 @@
 						"gold" : 1000
 					},
 					"requires" : [
-						"horde1"
+						"allOf",
+						[
+							"horde1"
+						],
+						[
+							"dwellingUpLvl2"
+						]
 					]
 				},
 				"horde2" : {
@@ -468,7 +474,13 @@
 						"gold" : 1500
 					},
 					"requires" : [
-						"horde2"
+						"allOf",
+						[
+							"horde2"
+						],
+						[
+							"dwellingUpLvl3"
+						]
 					]
 				},
 				"special1" : {
@@ -847,8 +859,8 @@
 			"guildWindow" : "abyss/town-screen/mage-guild",
 			"hallBackground" : "abyss/town-screen/hallBackground",
 			"horde" : [
-				2,
-				1
+				1,
+				2
 			],
 			"moatAbility" : "abyssMoat",
 			"icons" : {
